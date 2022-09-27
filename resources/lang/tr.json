@@ -1,0 +1,13 @@
+{
+    "Whoops! Something went wrong.": "Bir hata oluştu!",
+    "Email": "Eposta Adresiniz",
+    "Password": "Şifreniz",
+    "Remember me": "Oturum açık kalsın",
+    "Forgot your password?": "Şifremi unuttum",
+    "Log in": "Oturum Aç",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Şifrenizi sıfırlamak için E-posta adresinizi yazın. Kayıtlı e-posta adresinize şifre sıfırlama talimatları gönderilecektir.",
+    "Email Password Reset Link": "Şifremi Sıfırla",
+    "Confirm Password": "Şifre Tekrarı",
+    "Reset Password": "Şifremi Kaydet",
+    "Project name is required": "Proje adını yazınız"
+}
